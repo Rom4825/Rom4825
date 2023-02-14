@@ -26,3 +26,4 @@
   ![Snake animation](https://github.com/rom4825/rom4825/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
